@@ -1,0 +1,7 @@
+{
+    "python_version": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:09:02) [GCC 11.2.0]",
+    "platform": "Linux-6.1.0-38-amd64-x86_64-with-glibc2.36",
+    "numpy_version": "2.4.2",
+    "scipy_version": "1.17.0",
+    "pennylane_version": "0.44.0"
+}
